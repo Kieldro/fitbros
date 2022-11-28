@@ -18,3 +18,4 @@ gradle 7.6
 
 java 19
 
+`gradle bootRun`
